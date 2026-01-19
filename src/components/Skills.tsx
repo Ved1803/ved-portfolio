@@ -32,7 +32,8 @@ const Skills = () => {
         { name: 'Ruby on Rails', level: 95, years: '3+ years' },
         { name: 'HTML', level: 90, years: '3+ years' },
         { name: 'CSS', level: 85, years: '3+ years' },
-        { name: 'MVC Architecture', level: 88, years: '3+ years' }
+        { name: 'MVC Architecture', level: 88, years: '3+ years' },
+        { name: 'Django', level: 80, years: '2+ years' }
       ]
     },
     {
@@ -40,7 +41,7 @@ const Skills = () => {
       icon: Database,
       skills: [
         { name: 'PostgreSQL', level: 85, years: '3+ years' },
-        { name: 'MySQL', level: 80, years: '3+ years' },
+        { name: 'MySQL', level: 85, years: '3+ years' },
         { name: 'MongoDB', level: 70, years: 'Basic' }
       ]
     },

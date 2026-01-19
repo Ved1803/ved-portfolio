@@ -60,7 +60,7 @@ const Resume = () => {
             A detailed overview of my professional journey, achievements, and contributions 
             to the software development industry.
           </p>
-          <a href="/Ved-Tiwari-Resume.pdf" download>
+          <a href="/Ved-ROR-Resume.pdf" download>
             <Button 
               variant="hero" 
               size="lg"

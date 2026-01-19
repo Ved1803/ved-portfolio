@@ -62,7 +62,7 @@ const Hero = () => {
               variant="ghost"
               size="icon"
               className="hover-lift"
-              onClick={() => window.open('https://github.com/VedTiwari', '_blank')}
+              onClick={() => window.open('https://github.com/Ved1803', '_blank')}
             >
               <Github className="w-6 h-6" />
             </Button>
@@ -78,7 +78,7 @@ const Hero = () => {
               variant="ghost"
               size="icon"
               className="hover-lift"
-              onClick={() => window.open('mailto:ved.tiwari08@gmail.com', '_blank')}
+              onClick={() => window.open('https://github.com/Ved1803', '_blank')}
             >
               <Download className="w-6 h-6" />
             </Button>

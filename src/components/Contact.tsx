@@ -30,13 +30,13 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'ved.tiwari08@gmail.com',
+      value: 'ved.tiwari982@gmail.com',
       action: () => window.open('mailto:ved.tiwari982@gmail.com')
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 9424055774',
+      value: '+91 9340805774',
       action: () => window.open('tel:+919340805774')
     },
     {
@@ -58,7 +58,7 @@ const Contact = () => {
       icon: Linkedin,
       label: 'LinkedIn',
       url: 'https://www.linkedin.com/in/ved-tiwari1803/',
-      username: '/in/ved-tiwari303'
+      username: '/in/ved-tiwari1803/'
     },
     {
       icon: Mail,
@@ -96,7 +96,7 @@ const Contact = () => {
   };
 
   const scheduleCall = () => {
-    window.open('mailto:ved.tiwari08@gmail.com', '_blank');
+    window.open('mailto:ved.tiwari982@gmail.com', '_blank');
   };
 
   return (
